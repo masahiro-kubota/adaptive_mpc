@@ -10,7 +10,7 @@ Comparing the track following error with MPC using a two-wheel model, it can be 
 2. If you do not provide your own driving data or reference trajectory for testing, execute all code.
 3. Finally, a graph is displayed showing the tracking error between the MPC using the two-wheel model and the MPC using driving data.
 
-If you need to make driving data or reference trajectory, you can use Manual_Trajectory_Generator.slx to make them.
+If you need to make driving data or reference trajectory, you can use `Manual_Trajectory_Generator.slx` to make them.
 
 ![Test Image 2](image/Manual_Trajectory_Generator.gif)
 
