@@ -16,12 +16,8 @@ Comparing the track following error with MPC using a two-wheel model, it can be 
 The following toolbox is used in this model.
    -  MATLAB® 
    -  Simulink® 
-   -  Control System Toolbox™ 
    -  Model Predictive Control Toolbox™ 
-   -  Simulink Control Design™ 
-   -  Navigation Toolbox™ 
-   -  Vehicle Dynamics Blockset™ 
-   -  MATLAB Coder™, Simulink Coder™, Embedded Coder® 
+   -  Vehicle Dynamics Blockset™  
 
 # License
 
