@@ -1,5 +1,5 @@
 function transformedState = transformState(referenceState, inputState)
-    % 基準となる状態referenceStateを原点座標として、入力した他の状態inputStateを変換
+    % Transforms other input states using the reference state referenceState as the origin coordinate.
     px_ref = referenceState(1);
     py_ref = referenceState(2);
     theta_ref = referenceState(3);

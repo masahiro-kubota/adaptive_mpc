@@ -18,7 +18,7 @@ function figure_error(result, ts)
     error_dist = sqrt(error_px.^2 + error_py.^2);
     time = (0:ts:110)';
     
-    % 誤差を図示
+    % Illustrate the error
     figure;
     plot(time(1:end-1), error_dist);
     disp("rmse")
