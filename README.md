@@ -21,6 +21,7 @@ The following toolbox is used in this model.
    -  Simulink® 
    -  Model Predictive Control Toolbox™ 
    -  Vehicle Dynamics Blockset™  
+   -  System Identification Toolbox™  
 
 # License
 
